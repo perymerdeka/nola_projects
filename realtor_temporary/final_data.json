@@ -1,0 +1,104 @@
+[
+  {
+    "street address": [
+      "88-43 80th St"
+    ],
+    "region": "NY",
+    "postcode": "11421",
+    "owner name": "Hai Chen",
+    "contact": "(718) 886-3200",
+    "square footage": [],
+    "number_room": 3,
+    "montly cost": "-",
+    "price": "$608,000"
+  },
+  {
+    "street address": [
+      "32-23 Plunkett Ave"
+    ],
+    "region": "NY",
+    "postcode": "11691",
+    "owner name": "Andre Dyer",
+    "contact": "(516) 575-7500",
+    "square footage": [],
+    "number_room": 4,
+    "montly cost": "-",
+    "price": "$600,000"
+  },
+  {
+    "street address": [
+      "61-41 84th St"
+    ],
+    "region": "NY",
+    "postcode": "11379",
+    "owner name": "Hai Chen",
+    "contact": "(718) 886-3200",
+    "square footage": [],
+    "number_room": 5,
+    "montly cost": "-",
+    "price": "$1,130,000"
+  },
+  {
+    "street address": [
+      "87-89 202 St"
+    ],
+    "region": "NY",
+    "postcode": "11423",
+    "owner name": "Leo Chan",
+    "contact": "(877) 943-8676",
+    "square footage": [],
+    "number_room": 5,
+    "montly cost": "-",
+    "price": "$998,000"
+  },
+  {
+    "street address": [
+      "1563 85th St"
+    ],
+    "region": "NY",
+    "postcode": "11228",
+    "owner name": "Hai (David) Q. Chen",
+    "contact": "(718) 382-0001",
+    "square footage": 1824,
+    "number_room": 6,
+    "montly cost": "$630",
+    "price": "$1,150,000"
+  },
+  {
+    "street address": [],
+    "region": [],
+    "postcode": [],
+    "owner name": "Brown Harris Stevens - 130 Fifth Avenue",
+    "contact": "(212) 906-0500",
+    "square footage": [],
+    "number_room": "Total Rooms: 4",
+    "montly cost": "Est. Payment",
+    "price": "$2,885,000"
+  },
+  {
+    "street address": [
+      "250 E 30th St Apt 10F"
+    ],
+    "region": "NY",
+    "postcode": "10016",
+    "owner name": "Cindy Chen",
+    "contact": "(212) 913-9058",
+    "square footage": 602,
+    "number_room": 1,
+    "montly cost": "$1,121",
+    "price": "$675,000"
+  },
+  {
+    "street address": [
+      "901 Greene Ave Unit 2"
+    ],
+    "region": "NY",
+    "postcode": "11221",
+    "owner name": "The In House Group",
+    "contact": "(917) 727-7325",
+    "square footage": 836,
+    "number_room": 2,
+    "montly cost": "$795",
+    "price": "$665,000"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "@type": "SingleFamilyResidence",
+  "@context": "http://schema.org",
+  "name": "113-34 200th St, Saint Albans, NY 11412",
+  "floorSize": {
+    "@type": "QuantitativeValue",
+    "@context": "http://schema.org",
+    "value": "2,200"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "@context": "http://schema.org",
+    "streetAddress": "113-34 200th St",
+    "addressLocality": "Saint Albans",
+    "addressRegion": "NY",
+    "postalCode": "11412"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "@context": "http://schema.org",
+    "latitude": 40.700339,
+    "longitude": -73.755149
+  },
+  "url": "https://www.zillow.com/homedetails/113-34-200th-St-Saint-Albans-NY-11412/2080078407_zpid/"
+}

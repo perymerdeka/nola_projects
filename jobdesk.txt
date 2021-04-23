@@ -1,0 +1,41 @@
+nolahomedeals
+
+Last seen45m agoLocal timeJan 02, 9:59 PM
+N
+nolahomedealsJan 03, 6:11 AM
+ReportSpam
+Custom Order Request
+Specification
+Budget $150
+7 days delivery (Jan. 9 2021)
+Criteria
+Hello,
+
+I would like a quote on the following:
+data mining/web scraping of the following websites:
+zillow.com, realtor.com, redfin.com and neworleans.craigslist.org
+
+scraping/extracting data on all for sale by owner listings, for rent listings, and pre-foreclosure listings within a 40 mile radius of New Orleans, LA
+
+scraping the following property information from each of the sources above that is then exported as a CSV and/or Google sheet:
+-property address
+-owner name
+-owner contact phone number
+-square footage
+-number of bedrooms and bathrooms
+-any taxes owed/pre-foreclosure
+-price
+
+Secondly, the ability to automatically input property addresses or owner names from an Excel sheet to mine and scrape Owner name, property address, and tax information from these two local government websites:
+http://qpublic9.qpublic.net/la_orleans_address.php (input/search by property addresses)
+
+https://atlas.geoportalmaps.com/st_tammany (input/search by owner name and/or property address)
+
+The resulting data to then be extracted to CSV/Google sheets file
+
+Finally, the ability to automatically input/search the owner name and city and scrape all phone numbers from truepeoplesearch.com based on a CSV/Excel file
+
+please let me know if this is possible and if you have any questions!
+
+Thank you very much,
+David

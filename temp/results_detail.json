@@ -1,0 +1,106 @@
+{
+  "results": [
+    {
+      "context": "https://schema.org",
+      "type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "type": "ListItem",
+          "position": 1,
+          "item": {
+            "id": "www.realtor.com/realestateandhomes-search/New-York",
+            "name": "New York"
+          }
+        },
+        {
+          "type": "ListItem",
+          "position": 2,
+          "item": {
+            "id": "www.realtor.com/realestateandhomes-search/Kings-County_NY",
+            "name": "Kings County"
+          }
+        },
+        {
+          "type": "ListItem",
+          "position": 3,
+          "item": {
+            "id": "www.realtor.com/realestateandhomes-search/Brooklyn_NY",
+            "name": "Brooklyn"
+          }
+        }
+      ]
+    },
+    {
+      "context": "https://schema.org",
+      "type": "Product",
+      "name": "901 Greene Ave Unit 2, Brooklyn, NY 11221",
+      "image": "https://ap.rdcpix.com/fab418c085a298cee968fe7c4efcf084l-m591279770od-w480_h480_q80.jpg",
+      "description": "Buy this 2 bed, 1 bath, single family home located at 901 Greene Ave Unit 2, Brooklyn, NY 11221 on sale now for $665000.",
+      "offers": {
+        "type": "Offer",
+        "url": "https://www.realtor.com/realestateandhomes-detail/901-Greene-Ave-2_Brooklyn_NY_11221_M93627-60722",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "type": "Organization",
+          "name": "The In House Group"
+        },
+        "price": 665000
+      }
+    },
+    {
+      "context": "https://schema.org",
+      "type": "SingleFamilyResidence",
+      "url": "https://www.realtor.com/realestateandhomes-detail/901-Greene-Ave-2_Brooklyn_NY_11221_M93627-60722",
+      "floorSize": 836,
+      "numberOfRooms": 2,
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "901 Greene Ave Unit 2",
+        "addressLocality": "Brooklyn",
+        "addressRegion": "NY",
+        "postalCode": "11221"
+      },
+      "geo": {
+        "type": "GeoCoordinates",
+        "latitude": 40.690881,
+        "longitude": -73.931585
+      }
+    },
+    {
+      "context": "https://schema.org",
+      "type": "Event",
+      "name": "Open House - 1:00 PM - 3:00 PM",
+      "startDate": "2021-01-17T13:00:00",
+      "endDate": "2021-01-17T15:00:00",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "type": "Place",
+        "name": "901 Greene Ave Unit 2",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "901 Greene Ave Unit 2",
+          "addressLocality": "Brooklyn",
+          "addressRegion": "NY",
+          "postalCode": "11221"
+        }
+      },
+      "image": "https://ap.rdcpix.com/fab418c085a298cee968fe7c4efcf084l-m591279770od-w480_h480_q80.jpg",
+      "description": "Open House for 901 Greene Ave Unit 2.",
+      "url": "https://www.realtor.com/realestateandhomes-detail/901-Greene-Ave-2_Brooklyn_NY_11221_M93627-60722",
+      "offers": {
+        "type": "Offer",
+        "url": "https://www.realtor.com/realestateandhomes-detail/901-Greene-Ave-2_Brooklyn_NY_11221_M93627-60722",
+        "price": "",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "type": "Organization",
+        "name": "The In House Group",
+        "url": "http://THEINHOUSEGROUP.COM/"
+      }
+    }
+  ]
+}
